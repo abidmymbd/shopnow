@@ -36,7 +36,7 @@ const defaultItems: Item[] = [
     description:
       "Professional-grade 50mm prime lens with f/1.4 aperture. Ideal for portrait photography and low-light conditions.",
     price: 299.99,
-    image: "https://images.unsplash.com/photo-1606986628253-e0f5e9e0c7ef?w=400&h=400&fit=crop",
+    image: "https://tse2.mm.bing.net/th/id/OIP.NZp1gAFA3JvFbHdA-zBNdwHaD4?rs=1&pid=ImgDetMain&o=7&rm=3?w=400&h=400&fit=crop",
     category: "Photography",
     inStock: true,
   },
@@ -46,7 +46,7 @@ const defaultItems: Item[] = [
     description:
       "Handcrafted genuine leather backpack with multiple compartments. Perfect for daily commute or weekend adventures.",
     price: 149.99,
-    image: "https://images.unsplash.com/photo-1553062407-98eeb64c27ff?w=400&h=400&fit=crop",
+    image: "https://tse3.mm.bing.net/th/id/OIP.opKBpyDrQns0P4Y4Gha62wHaLH?rs=1&pid=ImgDetMain&o=7&rm=3?w=400&h=400&fit=crop",
     category: "Fashion",
     inStock: true,
   },
@@ -65,7 +65,7 @@ const defaultItems: Item[] = [
     name: "Desk Lamp",
     description: "Modern LED desk lamp with adjustable brightness and color temperature. USB charging port included.",
     price: 49.99,
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+    image: "https://img.freepik.com/premium-photo/desk-with-lamp-book-it_959961-990.jpg?w=400&h=400&fit=crop",
     category: "Home",
     inStock: false,
   },
